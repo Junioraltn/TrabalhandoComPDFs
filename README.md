@@ -1,5 +1,7 @@
 ## 🗂️ Script Python para Renomeação de Pastas e União de PDFs
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3a91221f-1ad8-4753-8e3e-99476db656c5" alt="Fabrica que transforma Pdf em informação" width="60%" />
+</div>
 ## 📝 Descrição do Projeto
 
 Este é um script Python desenvolvido para automatizar tarefas comuns em fluxos de trabalho de digitalização de documentos. O script executa duas funções principais:
